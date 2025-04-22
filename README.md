@@ -46,4 +46,4 @@ Feel free to fork the repository, create an issue, or submit a pull request if y
 ## Author
 
 **Akhil Soni**
-- [GitHub]([https://github.com/akhilsoni04])
+- [GitHub](https://github.com/akhilsoni04)
