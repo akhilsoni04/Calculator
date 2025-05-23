@@ -6,8 +6,7 @@ function appendToDisplay(value) {
 
 function clearDisplay() {
     display.value = "";
-}
-
+}  
 
 function calculateResult() {
     try {
@@ -17,3 +16,4 @@ function calculateResult() {
     }
 } 
 
+// java eval in built function do the magic in this code

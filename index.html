@@ -6,12 +6,12 @@
     <title>Simple JS Calculator</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body> 
+<body>   
     <div class="calculator">
         <input type="text" id="display" placeholder="0" disabled>
-        <div class="buttons">
+        <div class="buttons"> 
             
-            <button onclick="clearDisplay()" aria-label="Clear" class="operator">C</button>
+            <button onclick="clearDisplay()" aria-label="Clear" class="operator">AC</button>
             <button onclick="appendToDisplay('7')">7</button>
             <button onclick="appendToDisplay('8')">8</button>
             <button onclick="appendToDisplay('9')">9</button>
@@ -31,8 +31,10 @@
             <button onclick="appendToDisplay('.')">.</button>
             <button onclick="calculateResult()" >=</button>
             <button onclick="appendToDisplay('+')" class="operator">+</button>
+
         </div>
     </div>
     <script src="script.js"></script>
 </body>
 </html>
+
