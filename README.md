@@ -1,6 +1,6 @@
 ## Live Demo
 You can view the live version of this project at the following link:
-[Click here to see the live project](https://akhilsoni04.github.io/Calculator/)
+[Click here to see the live project](https://calculator-zeta-ruby.vercel.app/)
 
 # Calculator
 A simple calculator web application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
